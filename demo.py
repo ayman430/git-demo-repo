@@ -5,3 +5,9 @@ def loop_function(num):
         print(i)
 
 loop_function(5)
+
+# welcome function
+def welcome(name):
+    print(f'Hello, {name}')
+
+welcome('ayman')
